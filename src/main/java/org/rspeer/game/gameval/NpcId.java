@@ -14821,6 +14821,7 @@ public class NpcId {
   public static final int RUSTY_PIRATE_THIEVING_CHEST_GLE = 14811;
   public static final int TARNISHED_PIRATE_THIEVING_CHEST_GLE = 14812;
   public static final int REINFORCED_PIRATE_THIEVING_CHEST_GLE = 14813;
+  public static final int WILD_CAVE_IMP_DEADMAN = 14814;
   public static final int POH_HW_CHAIR = 14815;
   public static final int BARRACUDA_MAKO = 14816;
   public static final int BARRACUDA_MORA = 14817;
@@ -14870,6 +14871,8 @@ public class NpcId {
   public static final int SLAYER_GRYPHON_GUARDIAN = 14861;
   public static final int SLAYER_GRYPHON_BOSS_GUARDIAN = 14862;
   public static final int SLAYER_GRYPHON_BOSS_GUARDIAN_VIS = 14863;
+  public static final int WILD_CAVE_GOBLIN_DEADMAN = 14864;
+  public static final int WILD_CAVE_PYREFIEND_DEADMAN = 14865;
   public static final int PANDEMONIUM_FISHMONGER = 14866;
   public static final int PANDEMONIUM_ROSALEE = 14867;
   public static final int PANDEMONIUM_DAWSON = 14868;
@@ -15182,6 +15185,14 @@ public class NpcId {
   public static final int SAILING_CHARTING_DRINK_CRATE_MONKFISH_STOUT_EFFECT = 15175;
   public static final int SAILING_CHARTING_DRINK_CRATE_MONKFISH_STOUT_EFFECT_DEAD = 15176;
   public static final int SAILING_CHARTING_DRINK_CRATE_SAILING_CAT_EFFECT = 15177;
+  public static final int WILD_CAVE_HOBGOBLIN_DEADMAN = 15178;
+  public static final int WILD_CAVE_CYCLOPS_DEADMAN = 15179;
+  public static final int WILD_CAVE_HELLHOUND_DEADMAN = 15180;
+  public static final int WILD_CAVE_DEMON_DEADMAN = 15181;
+  public static final int WILD_CAVE_ORK_DEADMAN = 15182;
+  public static final int WILD_CAVE_DARKBEAST_DEADMAN = 15183;
+  public static final int WILD_CAVE_KNIGHT_DEADMAN = 15184;
+  public static final int WILD_CAVE_DRAGON_DEADMAN = 15185;
   public static final int BOAT_HP_NPC_TINY = 15186;
   public static final int BOAT_HP_NPC_SMALL = 15187;
   public static final int BOAT_HP_NPC_MEDIUM = 15188;
@@ -15233,6 +15244,7 @@ public class NpcId {
   public static final int SAILING_DOLPHIN = 15234;
   public static final int SAILING_DOLPHIN_DEAD = 15235;
   public static final int SAILING_DOLPHIN_BABY = 15236;
+  public static final int DEADMAN_BREACH_LUCIEN = 15237;
   public static final int SAILING_ASSISTANT_LIMBO = 15238;
   public static final int JUMBO_JIM = 15239;
   public static final int SAILING_EMOTE_NPC = 15240;
@@ -15542,6 +15554,31 @@ public class NpcId {
   public static final int SAILING_TRANSPORT_TRADER_STAN_CREW_WOMAN1_PORT_ROBERTS = 15544;
   public static final int SAILING_TRANSPORT_TRADER_STAN_CREW_WOMAN2_PORT_ROBERTS = 15545;
   public static final int SAILING_TRANSPORT_TRADER_STAN_CREW_WOMAN3_PORT_ROBERTS = 15546;
+  public static final int DEADMAN_BREACH_EVIL_CHICKEN = 15547;
+  public static final int DEADMAN_BREACH_SCURRIUS = 15548;
+  public static final int DEADMAN_BREACH_MUSPAH = 15549;
+  public static final int DEADMAN_BREACH_SPLATTER = 15550;
+  public static final int DEADMAN_BREACH_WARDEN_TUMEKEN_RANGE = 15551;
+  public static final int DEADMAN_BREACH_WARDEN_TUMEKEN_MAGE = 15552;
+  public static final int DEADMAN_BREACH_DSCIM_NPC = 15553;
+  public static final int DEADMAN_BREACH_SOL_HEREDIT = 15554;
+  public static final int DEADMAN_BREACH_YAMA = 15555;
+  public static final int DEADMAN_BREACH_BLOAT = 15556;
+  public static final int DEADMAN_BREACH_JAD_MINION = 15557;
+  public static final int DEADMAN_BREACH_MUMMY_MINION = 15558;
+  public static final int DEADMAN_BREACH_SHADE_MINION = 15559;
+  public static final int DEADMAN_BREACH_UNDEAD_ONE_MINION = 15560;
+  public static final int DEADMAN_BREACH_PIRATE_MINION = 15561;
+  public static final int DEADMAN_BREACH_ULFRIC_MINION = 15562;
+  public static final int DEADMAN_BREACH_KHAZARD_MINION = 15563;
+  public static final int DEADMAN_CHEST_ZEMOUREGAL = 15564;
+  public static final int DEADMAN_GUARD_UNKAH = 15565;
+  public static final int DEADMAN_GUARD_UNKAH_VIS = 15566;
+  public static final int DEADMAN_GUARD_WINTERTODT = 15567;
+  public static final int DEADMAN_GUARD_WINTERTODT_VIS = 15568;
+  public static final int DEADMAN_THRALL_ZOMBIE_GREATER_ZUK = 15569;
+  public static final int DEADMAN_THRALL_SKELETAL_GREATER_PRINCESS = 15570;
+  public static final int DEADMAN_THRALL_GHOSTLY_GREATER_WISP = 15571;
 
   private static final Int2ObjectMap<String> CACHE = new Int2ObjectOpenHashMap<>();
 

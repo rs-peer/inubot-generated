@@ -5227,6 +5227,16 @@ public class VarpId {
   public static final int COLLECTION_PERSONAL_BEST_TRANSMIT = 5217;
   public static final int COLLECTION_PERSONAL_BEST_TRANSMIT_2 = 5218;
   public static final int ERNESTHANDIN = 5219;
+  public static final int DEADMAN_POINTS_2026 = 5220;
+  public static final int VARPLAYER_5221 = 5221;
+  public static final int VARPLAYER_5222 = 5222;
+  public static final int VARPLAYER_5223 = 5223;
+  public static final int DEADMAN_TUTORIAL = 5224;
+  public static final int DEADMAN_SKULL_POINTS = 5225;
+  public static final int DEADMAN_SKULL_POINTS_USED = 5226;
+  public static final int DEADMAN_SKULL_GENERAL = 5227;
+  public static final int SIGIL_STATE_1 = 5228;
+  public static final int SIGIL_TOGGLE_1 = 5229;
 
   private static final Int2ObjectMap<String> CACHE = new Int2ObjectOpenHashMap<>();
 

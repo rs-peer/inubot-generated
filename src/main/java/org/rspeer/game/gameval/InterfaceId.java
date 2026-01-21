@@ -426,6 +426,7 @@ public class InterfaceId {
   public static final int CANOEING = 416;
   public static final int BREW_TOOLS = 417;
   public static final int BREW_WAITING_ROOM_OVERLAY = 418;
+  public static final int DEADMAN_TUTORIAL = 419;
   public static final int BEEHIVE = 420;
   public static final int PVP_ARENA_STAGINGAREA_SHARELOADOUT = 421;
   public static final int POH_VIEWER = 422;
@@ -954,6 +955,7 @@ public class InterfaceId {
   public static final int REUSABLE_FLOATER = 945;
   public static final int PATCHY = 946;
   public static final int MENU_NEW = 947;
+  public static final int DEADMANSKULL_INTERFACE = 948;
 
   public static class _100GuideEggsOverlay {
     public static final int UNIVERSE = (0 << 16) | 0;
@@ -15402,6 +15404,57 @@ public class InterfaceId {
     public static final int COM_7 = (418 << 16) | 7;
   }
 
+  public static class DeadmanTutorial {
+    public static final int UNIVERSE = (419 << 16) | 0;
+    public static final int NOCLICK = (419 << 16) | 1;
+    public static final int MAIN = (419 << 16) | 2;
+    public static final int TUT_1_LAYER = (419 << 16) | 3;
+    public static final int TUT_2_LAYER = (419 << 16) | 4;
+    public static final int TUT_3_LAYER = (419 << 16) | 5;
+    public static final int TUT_4_LAYER = (419 << 16) | 6;
+    public static final int TUT_5_LAYER = (419 << 16) | 7;
+    public static final int TUT_TELEPORT_LAYER = (419 << 16) | 8;
+    public static final int BACKGROUND = (419 << 16) | 9;
+    public static final int COM_10 = (419 << 16) | 10;
+    public static final int COM_11 = (419 << 16) | 11;
+    public static final int TUT_1_TEXT_1 = (419 << 16) | 12;
+    public static final int CONTINUE_1 = (419 << 16) | 13;
+    public static final int LOGOUT = (419 << 16) | 14;
+    public static final int BACKGROUND_1 = (419 << 16) | 15;
+    public static final int COM_16 = (419 << 16) | 16;
+    public static final int TUT_1_TEXT_2 = (419 << 16) | 17;
+    public static final int CONTINUE_2 = (419 << 16) | 18;
+    public static final int TUT_1_INDEX_1 = (419 << 16) | 19;
+    public static final int COM_20 = (419 << 16) | 20;
+    public static final int COM_21 = (419 << 16) | 21;
+    public static final int BACKGROUND_2 = (419 << 16) | 22;
+    public static final int COM_23 = (419 << 16) | 23;
+    public static final int TUT_1_TEXT_3 = (419 << 16) | 24;
+    public static final int CONTINUE_3 = (419 << 16) | 25;
+    public static final int BACK_3 = (419 << 16) | 26;
+    public static final int TUT_1_INDEX_2 = (419 << 16) | 27;
+    public static final int BACKGROUND_3 = (419 << 16) | 28;
+    public static final int COM_29 = (419 << 16) | 29;
+    public static final int TUT_1_TEXT_4 = (419 << 16) | 30;
+    public static final int CONTINUE_4 = (419 << 16) | 31;
+    public static final int BACK_4 = (419 << 16) | 32;
+    public static final int TUT_1_INDEX_3 = (419 << 16) | 33;
+    public static final int BACKGROUND_4 = (419 << 16) | 34;
+    public static final int COM_35 = (419 << 16) | 35;
+    public static final int TUT_1_TEXT_TELEPORT = (419 << 16) | 36;
+    public static final int TELE_LUMBRIDGE = (419 << 16) | 37;
+    public static final int TELE_VARROCK = (419 << 16) | 38;
+    public static final int TELE_ARDOUGNE = (419 << 16) | 39;
+    public static final int TELE_KOUREND = (419 << 16) | 40;
+    public static final int TELE_GNOMESTRONGHOLD = (419 << 16) | 41;
+    public static final int BACKGROUND_5 = (419 << 16) | 42;
+    public static final int COM_43 = (419 << 16) | 43;
+    public static final int TUT_1_TEXT_5 = (419 << 16) | 44;
+    public static final int CONTINUE_5 = (419 << 16) | 45;
+    public static final int BACK_5 = (419 << 16) | 46;
+    public static final int TUT_1_INDEX_4 = (419 << 16) | 47;
+  }
+
   public static class Beehive {
     public static final int UNIVERSE = (420 << 16) | 0;
     public static final int COM_1 = (420 << 16) | 1;
@@ -29827,6 +29880,25 @@ public class InterfaceId {
     public static final int GRAPHICS = (947 << 16) | 8;
     public static final int TEXT = (947 << 16) | 9;
     public static final int SCROLLBAR = (947 << 16) | 10;
+  }
+
+  public static class DeadmanskullInterface {
+    public static final int INFINITY = (948 << 16) | 0;
+    public static final int FRAME = (948 << 16) | 1;
+    public static final int CLOSE = (948 << 16) | 2;
+    public static final int CONTENT = (948 << 16) | 3;
+    public static final int TABS = (948 << 16) | 4;
+    public static final int PERMANENT_TAB = (948 << 16) | 5;
+    public static final int TOGGLE_TAB = (948 << 16) | 6;
+    public static final int ATTUNE_TAB = (948 << 16) | 7;
+    public static final int MAIN = (948 << 16) | 8;
+    public static final int ITEMS = (948 << 16) | 9;
+    public static final int ITEMS_CONTENTS = (948 << 16) | 10;
+    public static final int ITEMS_SCROLLBAR = (948 << 16) | 11;
+    public static final int COM_12 = (948 << 16) | 12;
+    public static final int UNIVERSE = (948 << 16) | 13;
+    public static final int RESIZE_PREVIEW = (948 << 16) | 14;
+    public static final int TOOLTIP = (948 << 16) | 15;
   }
 
 
