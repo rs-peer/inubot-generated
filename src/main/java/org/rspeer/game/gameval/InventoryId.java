@@ -1010,6 +1010,9 @@ public class InventoryId {
   public static final int TRADER_SHOP_PORT_ROBERTS_IRON = 1000;
   public static final int TRADER_SHOP_PORT_ROBERTS_UIM = 1001;
   public static final int TRADER_SHOP_PORT_ROBERTS_GIM = 1002;
+  public static final int RAZMIREBUILDINGSTORE_IRON = 1003;
+  public static final int RAZMIREBUILDINGSTORE_UIM = 1004;
+  public static final int RAZMIREBUILDINGSTORE_GIM = 1005;
 
   private static final Int2ObjectMap<String> CACHE = new Int2ObjectOpenHashMap<>();
 

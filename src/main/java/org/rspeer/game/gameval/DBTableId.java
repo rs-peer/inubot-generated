@@ -13202,6 +13202,11 @@ public class DBTableId {
      */
     public static final int COL_COMBAT_FACILITY_DATA = 24;
 
+    /**
+     * integer
+     */
+    public static final int COL_FACILITY_BOTTLE_ID = 26;
+
     public static class Row {
       public static final int ADAMANT_CANNON = 8431;
       public static final int ANCHOR_2X5 = 8514;

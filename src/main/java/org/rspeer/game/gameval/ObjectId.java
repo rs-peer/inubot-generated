@@ -30651,8 +30651,6 @@ public class ObjectId extends ObjectId2 {
   public static final int SAILING_BOAT_CARGO_HOLD_ROSEWOOD_LARGE_NO_CARGO = 60641;
   public static final int SAILING_BOAT_CARGO_HOLD_ROSEWOOD_LARGE_CARGO = 60642;
   public static final int DEADMAN_DUNGEON_CORRIDORFILLER = 60643;
-  public static final int DEADMAN_DUNGEON_CORRIDORFILLERL = 60644;
-  public static final int DEADMAN_DUNGEON_CORRIDORFILLERR = 60645;
   public static final int BLACK_WALL02 = 60646;
   public static final int POH_DEADMAN_WINDOW_BINGO_01 = 60647;
   public static final int POH_DEADMAN_WINDOW_BINGO_02 = 60648;
@@ -30668,6 +30666,8 @@ public class ObjectId extends ObjectId2 {
   public static final int POH_DEADMAN_WINDOW_GNOMECHILD = 60658;
   public static final int POH_DEADMAN_WINDOW_GNOMECHILD2 = 60659;
   public static final int POH_CHAPELWINDOW_HOTSPOT_DEADMAN = 60660;
+  public static final int DEADMAN_DUNGEON_INSIDEWALL_SIDER = 60661;
+  public static final int DEADMAN_DUNGEON_INSIDEWALL_SIDEL = 60662;
 
   private static final Int2ObjectMap<String> CACHE = new Int2ObjectOpenHashMap<>();
 

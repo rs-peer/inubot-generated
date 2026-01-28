@@ -2998,6 +2998,10 @@ public class ItemId extends ItemId2 {
   public static final int PLACEHOLDER_SW_SLAYER_HELM_I_HOODED = 33071;
   public static final int PVPA_SLAYER_HELM_I_HOODED = 33072;
   public static final int PLACEHOLDER_PVPA_SLAYER_HELM_I_HOODED = 33073;
+  public static final int SAILING_FACILITY_BOTTLE_EMPTY = 33074;
+  public static final int CERT_SAILING_FACILITY_BOTTLE_EMPTY = 33075;
+  public static final int PLACEHOLDER_SAILING_FACILITY_BOTTLE_EMPTY = 33076;
+  public static final int SAILING_FACILITY_BOTTLE_FULL = 33077;
 
   private static final Int2ObjectMap<String> CACHE = new Int2ObjectOpenHashMap<>();
 
