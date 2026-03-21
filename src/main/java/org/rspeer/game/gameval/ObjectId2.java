@@ -26197,9 +26197,9 @@ public class ObjectId2 {
   public static final int RCU_OUTER_MULTI6 = 26192;
   public static final int FAI_FALADOR_PARTY_ROOM_CHEST_CLOSED = 26193;
   public static final int FAI_FALADOR_PARTY_ROOM_LEVER = 26194;
-  public static final int BIRTHDAYBANNERL = 26195;
-  public static final int BIRTHDAYBANNERR = 26196;
-  public static final int BIRTHDAYBANNERM = 26197;
+  public static final int SAILING_BOAT_HULL_GUNPORTS_KANDARIN_3X8_PORT_MIDSHIPS_DOWN_WOOD = 26195;
+  public static final int SAILING_BOAT_HULL_GUNPORTS_KANDARIN_3X8_PORT_MIDSHIPS_UP_WOOD = 26196;
+  public static final int SAILING_BOAT_HULL_GUNPORTS_KANDARIN_3X8_PORT_STERN_DOWN_WOOD = 26197;
   public static final int BIRTHDAYCAKE_FULL = 26198;
   public static final int GRINDER_MACHINE = 26199;
   public static final int WILD_DOOR_INACTIVE = 26200;

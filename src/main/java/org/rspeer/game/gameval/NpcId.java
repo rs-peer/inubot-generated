@@ -15579,6 +15579,24 @@ public class NpcId {
   public static final int DEADMAN_THRALL_ZOMBIE_GREATER_ZUK = 15569;
   public static final int DEADMAN_THRALL_SKELETAL_GREATER_PRINCESS = 15570;
   public static final int DEADMAN_THRALL_GHOSTLY_GREATER_WISP = 15571;
+  public static final int TZHAAR_FIGHTPIT_SWARM_4A = 15572;
+  public static final int TZHAAR_FIGHTPIT_SWARM_4B = 15573;
+  public static final int TZHAAR_FIGHTPIT_SWARM_BOSS = 15574;
+  public static final int SAILING_TIGER_SHARK_NOOP = 15575;
+  public static final int SAILING_VEILED_KRAKEN = 15576;
+  public static final int SAILING_VEILED_KRAKEN_DEAD = 15577;
+  public static final int _25TH_CAT = 15589;
+  public static final int COWBOSS_MAPPED = 15624;
+  public static final int COWBOSS_UNNAMED = 15625;
+  public static final int COWBOSS = 15626;
+  public static final int COWBOSS_ROUTEFIND = 15627;
+  public static final int COWBOSS_HARDMODE = 15628;
+  public static final int COWBOSS_HARDMODE_GHOST = 15629;
+  public static final int COWBOSS_INVISIBLE_PROJ_NPC = 15630;
+  public static final int COWBOSS_PET = 15631;
+  public static final int COWBOSS_FARMER = 15632;
+  public static final int POH_COWBOSS_PET = 15633;
+  public static final int _25TH_HOST = 15634;
 
   private static final Int2ObjectMap<String> CACHE = new Int2ObjectOpenHashMap<>();
 
