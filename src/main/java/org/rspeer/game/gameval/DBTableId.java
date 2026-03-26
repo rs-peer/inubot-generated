@@ -434,6 +434,7 @@ public class DBTableId {
       public static final int EASTER_2023 = 2342;
       public static final int EASTER_2024 = 3528;
       public static final int EASTER_2025 = 5107;
+      public static final int EASTER_2026 = 13319;
       public static final int HALLOWEEN_2023 = 3431;
       public static final int HALLOWEEN_2024 = 3935;
       public static final int HALLOWEEN_2025 = 6989;
@@ -3745,6 +3746,13 @@ public class DBTableId {
     public static final int COL_SHOW_WHEN_UNAVAILABLE = 6;
 
     public static class Row {
+      public static final int EASTER26_EGG_COMPANION_ARCHIBALD = 13312;
+      public static final int EASTER26_EGG_COMPANION_BUNNY = 13314;
+      public static final int EASTER26_EGG_COMPANION_CHICK = 13316;
+      public static final int EASTER26_EGG_COMPANION_DIAMONDS = 13315;
+      public static final int EASTER26_EGG_COMPANION_DRAGON = 13318;
+      public static final int EASTER26_EGG_COMPANION_GRID = 13313;
+      public static final int EASTER26_EGG_COMPANION_MELTED = 13317;
       public static final int GREENMAN_MASK_MAGIC_TRANSMOG = 5396;
       public static final int GREENMAN_MASK_MAPLE_TRANSMOG = 5394;
       public static final int GREENMAN_MASK_OAK_TRANSMOG = 5392;
@@ -3977,6 +3985,7 @@ public class DBTableId {
 
     public static class Row {
       public static final int ALPHABETIC = 2340;
+      public static final int ALPHABETIC_EASTER26 = 13320;
       public static final int ALPHABETIC_REVERSED = 3511;
       public static final int NUMERIC = 2339;
       public static final int NUMERIC_4 = 3413;

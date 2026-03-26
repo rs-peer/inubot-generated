@@ -5483,6 +5483,8 @@ public class VarpId {
   public static final int SAILING_SIDEPANEL_FACILITY_STATES_6 = 5473;
   public static final int SAILING_SIDEPANEL_AMMUNITION_COUNT_11 = 5474;
   public static final int SAILING_SIDEPANEL_AMMUNITION_COUNT_12 = 5475;
+  public static final int EASTER26_MAIN = 5476;
+  public static final int VARPLAYER_5477 = 5477;
 
   private static final Int2ObjectMap<String> CACHE = new Int2ObjectOpenHashMap<>();
 
