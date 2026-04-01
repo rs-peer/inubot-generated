@@ -1344,7 +1344,7 @@ public class VarpId {
   public static final int VARPLAYER_1334 = 1334;
   public static final int VARPLAYER_1335 = 1335;
   public static final int EOC_BITS = 1336;
-  public static final int VARPLAYER_1337 = 1337;
+  public static final int FAIRYRING_FAVOURITES = 1337;
   public static final int MUSICMULTI_17 = 1338;
   public static final int MM2_QUEST = 1339;
   public static final int MM2_QUEST_TEMP = 1340;
@@ -4862,8 +4862,8 @@ public class VarpId {
   public static final int WORN_ITEM_BONUS4 = 4852;
   public static final int WORN_ITEM_BONUS5 = 4853;
   public static final int WORN_ITEM_BONUS6 = 4854;
-  public static final int VARPLAYER_4855 = 4855;
-  public static final int VARPLAYER_4856 = 4856;
+  public static final int FAIRYRING_FAVOURITES_2 = 4855;
+  public static final int FAIRYRING_FAVOURITES_3 = 4856;
   public static final int RUNE_POUCH_LOADOUT_1 = 4857;
   public static final int RUNE_POUCH_LOADOUT_2 = 4858;
   public static final int RUNE_POUCH_LOADOUT_3 = 4859;
@@ -5050,7 +5050,7 @@ public class VarpId {
   public static final int SAILING_COMBAT_PERM_TRANSMIT_NO_PROTECT = 5040;
   public static final int SAILING_COMBAT_TEMP_TRANSMIT_NO_PROTECT = 5041;
   public static final int SAILING_COMBAT_FACILITY_IN_USE = 5042;
-  public static final int VARPLAYER_5043 = 5043;
+  public static final int SAILING_COMBAT_FACILITY_DATA = 5043;
   public static final int VARPLAYER_5044 = 5044;
   public static final int VARPLAYER_5045 = 5045;
   public static final int VARPLAYER_5046 = 5046;
@@ -5485,6 +5485,10 @@ public class VarpId {
   public static final int SAILING_SIDEPANEL_AMMUNITION_COUNT_12 = 5475;
   public static final int EASTER26_MAIN = 5476;
   public static final int VARPLAYER_5477 = 5477;
+  public static final int SPIRITTREE = 5478;
+  public static final int CANOEING_RIVER_DOUGNE = 5479;
+  public static final int CANOEING_RIVER_DOUGNE_2 = 5480;
+  public static final int CANOEING_MENU_2 = 5481;
 
   private static final Int2ObjectMap<String> CACHE = new Int2ObjectOpenHashMap<>();
 

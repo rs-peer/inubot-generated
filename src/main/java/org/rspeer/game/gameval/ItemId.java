@@ -3128,6 +3128,13 @@ public class ItemId extends ItemId2 {
   public static final int CERT_BR_BONE_CLAWS = 33201;
   public static final int BR_ARANEA_BOOTS = 33202;
   public static final int CERT_BR_ARANEA_BOOTS = 33203;
+  public static final int SAILING_COMBAT_BRONZE_CANNON_DUMMY = 33204;
+  public static final int SAILING_COMBAT_IRON_CANNON_DUMMY = 33205;
+  public static final int SAILING_COMBAT_STEEL_CANNON_DUMMY = 33206;
+  public static final int SAILING_COMBAT_MITHRIL_CANNON_DUMMY = 33207;
+  public static final int SAILING_COMBAT_ADAMANT_CANNON_DUMMY = 33208;
+  public static final int SAILING_COMBAT_RUNE_CANNON_DUMMY = 33209;
+  public static final int SAILING_COMBAT_DRAGON_CANNON_DUMMY = 33210;
 
   private static final Int2ObjectMap<String> CACHE = new Int2ObjectOpenHashMap<>();
 

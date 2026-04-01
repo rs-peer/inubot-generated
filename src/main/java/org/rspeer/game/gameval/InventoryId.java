@@ -1014,6 +1014,7 @@ public class InventoryId {
   public static final int RAZMIREBUILDINGSTORE_UIM = 1004;
   public static final int RAZMIREBUILDINGSTORE_GIM = 1005;
   public static final int ITEMGRANT_NOTRACKING = 1006;
+  public static final int CANOE_AXE = 1007;
 
   private static final Int2ObjectMap<String> CACHE = new Int2ObjectOpenHashMap<>();
 

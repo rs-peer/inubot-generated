@@ -15608,6 +15608,11 @@ public class NpcId {
   public static final int DAGANNOTH_DUNGEON_PRESSURE_PET_EASTER26_EGG_06 = 15598;
   public static final int POH_EASTER26_EGG_07 = 15599;
   public static final int DAGANNOTH_DUNGEON_PRESSURE_PET_EASTER26_EGG_07 = 15600;
+  public static final int CANOEING_KAIQUIR = 15601;
+  public static final int CANOEING_AMERGIN = 15602;
+  public static final int CANOEING_PETE = 15603;
+  public static final int CANOEING_PORKAI = 15604;
+  public static final int CANOEING_LARA = 15605;
   public static final int COWBOSS_MAPPED = 15624;
   public static final int COWBOSS_UNNAMED = 15625;
   public static final int COWBOSS = 15626;
