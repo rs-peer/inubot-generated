@@ -15585,10 +15585,6 @@ public class NpcId {
   public static final int SAILING_TIGER_SHARK_NOOP = 15575;
   public static final int SAILING_VEILED_KRAKEN = 15576;
   public static final int SAILING_VEILED_KRAKEN_DEAD = 15577;
-  public static final int EASTER26_EASTER_BUNNY = 15578;
-  public static final int EASTER26_EGG_LAST_SPOT = 15579;
-  public static final int EASTER26_EGG_LAST_SPOT_FOUND = 15580;
-  public static final int EASTER26_EGG_CHURCH_CUTSCENE = 15581;
   public static final int CASTLEWARS_BARRICADE_SARADOMIN_RENDER_UNDER = 15582;
   public static final int CASTLEWARS_BARRICADE_BURNING_SARADOMIN_RENDER_UNDER = 15583;
   public static final int CASTLEWARS_BARRICADE_ZAMORAK_RENDER_UNDER = 15584;

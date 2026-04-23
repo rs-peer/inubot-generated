@@ -9544,6 +9544,7 @@ public class VarbitId {
   public static final int SKIPPY_VISIBLE = 9534;
   public static final int CURRENT_RUNEDAY = 9535;
   public static final int LEAGUE_BANKERS_UNNOTE_QUANTITY = 9536;
+  public static final int TALENT_FREE_RESET_1 = 9537;
   public static final int POLL_BOOTH_HIGHLIGHT_DISABLED = 9538;
   public static final int RAIDS_SCALING = 9539;
   public static final int RAIDS_CLIENT_PARTYSIZE_SCALED = 9540;
@@ -11620,6 +11621,12 @@ public class VarbitId {
   public static final int LEAGUE_ECHO_PB_WILDERNESS = 11612;
   public static final int LEAGUE_ECHO_PB_KOUREND = 11613;
   public static final int LEAGUE_ECHO_PB_VARLAMORE = 11614;
+  public static final int TALENT_HUEY_PACT_RESET = 11615;
+  public static final int TALENT_EXTRA_RETRO_OBBY_CAPE = 11616;
+  public static final int TALENT_EXTRA_RETRO_DEEP_DELVE = 11617;
+  public static final int TALENT_EXTRA_RETRO_EQUIP_ECHO_WEP = 11618;
+  public static final int TALENT_EXTRA_RETRO_EQUIP_MOONS_ITEM = 11619;
+  public static final int ENDLESS_HARVEST_LAST_OP = 11620;
   public static final int VARPLAYERBIT_11688 = 11688;
   public static final int LEAGUE_TASK_FILTER_TYPE = 11689;
   public static final int LEAGUE_SECONDINV_USEALLITEMS = 11690;
@@ -15740,8 +15747,8 @@ public class VarbitId {
   public static final int VARPLAYERBIT_17578 = 17578;
   public static final int VARPLAYERBIT_17579 = 17579;
   public static final int VARPLAYERBIT_17580 = 17580;
-  public static final int VARPLAYERBIT_17581 = 17581;
-  public static final int VARPLAYERBIT_17582 = 17582;
+  public static final int HESPORI_WAS_ECHO = 17581;
+  public static final int HUNLLEF_WAS_ECHO = 17582;
   public static final int LEAGUE_5_DEATH_ANIMATION_UNLOCKED = 17583;
   public static final int LEAGUE_5_HOME_TELEPORT_UNLOCKED = 17584;
   public static final int LEAGUE_MORPH_SAVE_JAD = 17585;

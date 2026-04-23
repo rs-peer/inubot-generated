@@ -5552,6 +5552,7 @@ public class VarpId {
   public static final int VARPLAYER_5542 = 5542;
   public static final int VARPLAYER_5543 = 5543;
   public static final int VARPLAYER_5544 = 5544;
+  public static final int LEAGUE_RELIC_GENERAL_TEMP = 5545;
 
   private static final Int2ObjectMap<String> CACHE = new Int2ObjectOpenHashMap<>();
 
